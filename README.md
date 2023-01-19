@@ -44,7 +44,7 @@ python main.py rrt maps/room1.png -vv
 ```
 
 <p align="center">
-    <img width="600" height="auto" src="doc/images/rrt.gif" alt="RRT* Planner" />
+    <img width="300" height="300" src="doc/images/rrt.gif" alt="RRT* Planner" />
 </p>
 
 ### Bi-RRT*
@@ -54,7 +54,7 @@ python main.py birrt maps/room1.png -vv
 ```
 
 <p align="center">
-    <img width="600" height="auto" src="doc/images/birrt.gif" alt="Bi-RRT* Planner" />
+    <img width="300" height="300" src="doc/images/birrt.gif" alt="Bi-RRT* Planner" />
 </p>
 
 ### Informed RRT*
