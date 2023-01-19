@@ -28,13 +28,13 @@ python main.py rrdtstar maps/room1.png -vv
 ```
 
 <p align="center">
-    <img width="600" height="auto" src="doc/images/rrdtstar.gif" alt="rrdtstar Planner" />
+    <img width="600" height="600" src="doc/images/rrdtstar.gif" alt="rrdtstar Planner" />
 </p>
 
 compare with rrtstar
 
 <p align="center">
-    <img width="600" height="auto" src="doc/images/rrdtstar.gif" alt="rrtstar Planner" />
+    <img width="600" height="600" src="doc/images/rrtstar.gif" alt="rrtstar Planner" />
 </p>
 
 ### RRT*
