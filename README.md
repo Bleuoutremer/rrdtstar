@@ -3,8 +3,8 @@ Former work [paper](https://arxiv.org/abs/1810.03749) from ICRA'19.
 
 ```sh
 # assuming python3 and bash shell
-python -m venv rrdtstar
-source rrdtstar/bin/activate
+python -m venv rrdtinformed
+source rrdtinformed/bin/activate
 ```
 
 ```sh
@@ -24,11 +24,11 @@ python main.py <PLANNER> <MAP> [options]
 
 examples
 ```sh
-python main.py rrdtstar maps/room1.png -vv
+python main.py rrdtinformed maps/room1.png -vv
 ```
 
 <p align="center">
-    <img width="300" height="300" src="doc/images/rrdtstar.gif" alt="rrdtstar Planner" />
+    <img width="300" height="300" src="doc/images/rrdtinformed.gif" alt="rrdtinformed Planner" />
 </p>
 
 compare with rrtstar
