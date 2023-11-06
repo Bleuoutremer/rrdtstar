@@ -28,6 +28,12 @@ python main.py rrdtinformed maps/room1.png -vv
 ```
 
 <p align="center">
+<video width="320" height="240" controls>
+    <source src="doc/images/path_planning.mp4" type="video/mp4">
+</video>
+</p>
+
+<p align="center">
     <img width="300" height="300" src="doc/images/rrdtinformed.gif" alt="rrdtinformed Planner" />
 </p>
 
